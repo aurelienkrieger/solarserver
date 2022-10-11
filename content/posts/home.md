@@ -35,10 +35,10 @@ For this prototype, I used a very basic solar panel that is normally used to cha
 
 ![Charging times](/images/charge.jpg)
 
-The server was able to run on the solar-charged battery for :
-* x hours at idle.
-* x hours while serving x requests per minute.
 
+# Results
+
+The server was able to run for 7 hours using 20% of battery while serving 2-3 requests per hour. If we apply a 80-20 rule, meaning that we maintain the battery meter between 20% and 80% charge to improve its performance and longevity, that gives us a range of 60% usage. Hence the battery could power the server for 21 hours during a single charging cycle.
 
 
 # Software
@@ -66,4 +66,3 @@ To go further on the topic and for more detailed explainations about some of the
 - _"Solar Power for Artists"_ [link](https://www.solarpowerforartists.com/)
 - Gauthier Roussilhe for the Green Web Foundation, _"Towards a Fossil-Free Internet: The Fog of Enactment"_, 2021 [link](https://www.thegreenwebfoundation.org/publications/report-fog-of-enactment/)
 - Cloudflare, _"What is a static site generator?"_, [link](https://www.cloudflare.com/en-gb/learning/performance/static-site-generator/)
-
