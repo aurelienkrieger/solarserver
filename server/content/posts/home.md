@@ -1,9 +1,13 @@
-# solar server
+---
+title: "Solar Server"
+date: 2022-09-19T18:09:08+01:00
+draft: false
+---
 
 This is a solar-powered web-server. It is a prototype developed as part of an open research that explores what the Internet may look like if it was powered by self-organised, local communities, on renewable energies. There are two main considerations in exploring such alternatives, on one hand how do we make information networks more sustainable, and on the other hand how do we empower people to better understand the underlying technology we rely on to take control back. This is only a first step in the process. This article overviews the key findings and underlying principles behind the prototype.
 
-![Solar server 1](server/static/images/solarserver1.jpg)
-![Solar server 2](server/static/images/solarserver2.jpg)
+![Solar server 1](/images/solarserver1-web.jpg)
+![Solar server 2](/images/solarserver2-web.jpg)
 
 # Hardware
 
@@ -29,7 +33,7 @@ For this prototype, I used a 5V / 10.000mAh battery to power the Raspberry Pi 3B
 
 For this prototype, I used a very basic solar panel that is normally used to charge phones while hikings. According to the reseller, it provides 15W at a 19% efficiency and the charging curve should be something like this:
 
-![Image not found: /images/charge.jpg](server/static/images/charge.jpg "Image not found: /images/charge.jpg")
+![Charge](/images/charge-web.jpg)
 
 
 # Results
