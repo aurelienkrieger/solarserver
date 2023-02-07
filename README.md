@@ -29,7 +29,7 @@ For this prototype, I used a 5V / 10.000mAh battery to power the Raspberry Pi 3B
 
 For this prototype, I used a very basic solar panel that is normally used to charge phones while hikings. According to the reseller, it provides 15W at a 19% efficiency and the charging curve should be something like this:
 
-<img src="server/static/images/charge-web.jpg" width="500" alt="Charge">
+<img src="server/static/images/charge-web.jpg" width="700" alt="Charge">
 
 
 # Results
