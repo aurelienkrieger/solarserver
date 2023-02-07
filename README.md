@@ -2,7 +2,7 @@
 
 This is a solar-powered web-server. It is a prototype developed as part of an open research that explores what the Internet may look like if it was powered by self-organised, local communities, on renewable energies. There are two main considerations in exploring such alternatives, on one hand how do we make information networks more sustainable, and on the other hand how do we empower people to better understand the underlying technology we rely on to take control back. This is only a first step in the process. This article overviews the key findings and underlying principles behind the prototype.
 
-![Solar server 1](server/static/images/solarserver1-web.jpg){:width="300px"}
+![Solar server 1](server/static/images/solarserver1-web.jpg){:width="300px"}.
 ![Solar server 2](server/static/images/solarserver2-web.jpg){:width="300px"}
 
 # Hardware
